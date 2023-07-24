@@ -1,6 +1,6 @@
 # My Windows nvim config.
 
-**Notes...*
+**Notes...**
 * I am not proficient in Lua so my init is in vimscript.
 * Currently COC is having trouble with anything typescript/javascript.
 
